@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empresa">Empresa</string>
+    <string name="esports">Esports</string>
+    <string name="informatica">Informatica</string>
+    <string name="mitja">Mitja</string>
+    <string name="superior">Superior</string>
+    <string name="info_cicles_florida">Info Cicles Florida</string>
+</resources>
